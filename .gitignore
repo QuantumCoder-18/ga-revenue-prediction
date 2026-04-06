@@ -1,0 +1,18 @@
+# Virtual environment — don't upload this
+venv/
+
+# Data files — too large for GitHub
+data/train_v2.csv
+data/train_v2.csv.zip
+
+# Python cache files — not needed
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code settings
+.vscode/
+
+# Logs
+logs/
+data/clean_data.csv
